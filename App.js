@@ -155,8 +155,8 @@ const styles = StyleSheet.create({
     display:'flex',
     justifyContent:'center',
     alignItems:'center',
-    borderColor:'white',
-    borderWidth:2
+    borderColor:'#e0dede',
+    borderWidth:1
   },
   marks:{
     fontSize:60,
